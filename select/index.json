@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Push",
+  "base_artist": "Ultraspank",
+  "createdAt": "2026-02-17T16:02:49.355202Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Push It (US remix)",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/01_Push_It_(US_remix)_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Push It Along",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/02_Push_It_Along_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Push Up Ya Lighter",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/03_Push_Up_Ya_Lighter_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Push It (2018 - Remaster)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/04_Push_It_(2018_-_Remaster)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Push It",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/05_Push_It_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Push It - Boom Boom Satellites Mix",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/06_Push_It_-_Boom_Boom_Satellites_Mix_Garbage.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Push It (Boom Boom Satellites Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/07_Push_It_(Boom_Boom_Satellites_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Push It (Boom Boom Satellites)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/08_Push_It_(Boom_Boom_Satellites)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Push / Lost Weekend",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/09_Push___Lost_Weekend_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kick, Push",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/10_Kick,_Push_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kick Push Remix (Feat. Pharell)",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/11_Kick_Push_Remix_(Feat._Pharell)_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kick, Push II",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/12_Kick,_Push_II_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kick, Push II",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/13_Kick,_Push_II_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Push",
+      "artist": "Little Dragon",
+      "has_synced": false,
+      "path": "select/14_Push_Little_Dragon.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Push",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/15_Push_Madonna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Push",
+      "artist": "Ultraspank",
+      "has_synced": false,
+      "path": "select/pl_01_Push_Ultraspank.txt"
+    }
+  ]
+}
